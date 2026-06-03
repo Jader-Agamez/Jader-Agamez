@@ -1,4 +1,4 @@
-e · MDCopiar👋 Hola, soy Jader Agamez
+Hola, soy Jader Agamez
 Desarrollador Full Stack | React · Node.js · PostgreSQL · AWS | IA Generativa
 Soy desarrollador de software con un año de experiencia construyendo aplicaciones web funcionales, escalables y con integración de inteligencia artificial. Me apasiona resolver problemas reales con código limpio y seguir aprendiendo con cada proyecto.
 
