@@ -47,21 +47,21 @@ Backend: Node.js + Express + PostgreSQL
 IA: Claude API para análisis de síntomas
 Maps: Google Maps API + Geolocalización
 
-(![Texto alternativo](https://github.com/Jader-Agamez/Frontend-App-salud))
+[HealthFinder Colombia-Frontend](https://github.com/Jader-Agamez/Frontend-App-salud)
+
+[HealthFinder Colombia-Backend](https://github.com/Jader-Agamez/Backend-App-salud)
 
 💼 Mi Portafolio
 
 Portafolio personal desarrollado con React y JavaScript.
 
-Mostrar imagen
 
-📊 Estadísticas GitHub
-Mostrar imagen
-Mostrar imagen
+[Portafolio](https://mi-portafolio-weld-eta.vercel.app/)
 
 📚 Formación
 
 🎓 Tecnólogo en Análisis y Desarrollo de Software — SENA (Jul 2026 - Sep 2028)
+
 🎓 Técnico en Programación de Software — SENA (2024 - 2025)
 
 🏆 Certificaciones
@@ -71,8 +71,9 @@ Mostrar imagen
 
 
 📫 Contacto
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
+[Whatsapp](https://api.whatsapp.com/send/?phone=573205243841&text&type=phone_number&app_absent=0)
+[Linkedln](https://www.linkedin.com/in/jader-agamez-79ba94278/)
+[Instagram](https://www.instagram.com/jaderagamezm/)
 
 📍 Medellín, Colombia — Disponible para trabajo presencial, híbrido o remoto
